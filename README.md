@@ -1,31 +1,30 @@
 # Sanny Builder Library
-
 [![Discord](https://img.shields.io/discord/911487285990674473?style=for-the-badge)](https://discord.gg/d5dZSfgBZr)
 
-An attempt to build a complete and consistent class system and commands documentation spanning GTA 3D series games. Heavily based on original naming conventions.
+Uma tentativa de construir um sistema de classes completo e consistente e documentação de comandos abrangendo os jogos da série GTA 3D. Fortemente baseado em convenções de nomenclatura originais.
 
-Available online at https://library.sannybuilder.com/
+Disponível online em https://library.sannybuilder.com/
 
-Discuss: https://github.com/sannybuilder/dev/discussions/136
+Discutir: https://github.com/sannybuilder/dev/discussions/136
 
-## Library Features
+## Recursos da biblioteca
 
-- Offers the complete list of script commands for GTA III and Vice City (SA in progress!) in a keyword or class form in addition to the native name
-- Describes the specifics of each command using extra attributes
-- Is aware of Sanny's Language Extensions
-- Has an advanced filtering and searching functionality
-- Provides information on support of the command in other games
-- Has a convenient online editor for authorized users (see Contributing) where changes could be committed from the browser to GitHub
-- Provides the most recent `classes.db`, `keywords.txt` and `enums.txt` files for download and use with Sanny Builder
-- Has the responsive design for using on mobile devices
+- Oferece a lista completa de comandos de script para GTA III e Vice City (SA em andamento!) em forma de palavra-chave ou classe, além do nome nativo
+- Descreve as especificidades de cada comando usando atributos extras
+- Está ciente das extensões de idioma da Sanny
+- Possui funcionalidade avançada de filtragem e pesquisa
+- Fornece informações sobre suporte do comando em outros jogos
+- Possui um editor on-line conveniente para usuários autorizados (consulte Contribuições), onde as alterações podem ser enviadas do navegador para o GitHub
+- Fornece os arquivos `classes.db`, `keywords.txt` e `enums.txt` mais recentes para download e uso com Sanny Builder
+- Possui design responsivo para uso em dispositivos móveis
 
-## Contributing
+## Contribuindo
 
-Sanny Builder Library is an open project where anyone can contribute if they will. If you are looking for ways to participate in the project or want to get access to the online editor tool, drop a message in https://github.com/sannybuilder/dev/discussions/136 and we will sort this out.
+A Biblioteca Sanny Builder é um projeto aberto onde qualquer pessoa pode contribuir se quiser. Se você está procurando formas de participar do projeto ou deseja ter acesso à ferramenta de edição online, deixe uma mensagem em https://github.com/sannybuilder/dev/discussions/136 e resolveremos isso.
 
-## Credits
+## Créditos
 
-Information presented here is attributed to many talented individuals in the GTA modding community.
+As informações apresentadas aqui são atribuídas a muitos indivíduos talentosos da comunidade de modding GTA.
 
 - http://www.gtagmodding.com/opcode-database
 - https://gtamods.com/wiki/List_of_opcodes
