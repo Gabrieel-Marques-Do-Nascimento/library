@@ -1,17 +1,17 @@
-# This file is used by the build system to adjust CSS and JS output to support the specified browsers below.
-# For additional information regarding the format and rule options, please see:
+# Este arquivo é usado pelo sistema de construção para ajustar a saída CSS e JS para suportar os navegadores especificados abaixo.
+# Para obter informações adicionais sobre as opções de formato e regras, consulte:
 # https://github.com/browserslist/browserslist#queries
 
-# For the full list of supported browsers by the Angular framework, please see:
+# Para obter a lista completa de navegadores suportados pela estrutura Angular, consulte:
 # https://angular.io/guide/browser-support
 
-# You can see what browsers were selected by your queries by running:
-#   npx browserslist
+# Você pode ver quais navegadores foram selecionados pelas suas consultas executando:
+# lista de navegadores npx
 
-last 1 Chrome version
-last 1 Firefox version
-last 2 Edge major versions
-last 2 Safari major versions
-last 2 iOS major versions
-Firefox ESR
-not IE 11 # Angular supports IE 11 only as an opt-in. To opt-in, remove the 'not' prefix on this line.
+última 1 versão do Chrome
+última 1 versão do Firefox
+últimas 2 versões principais do Edge
+últimas 2 versões principais do Safari
+últimas duas versões principais do iOS
+FirefoxESR
+não IE 11 # Angular oferece suporte ao IE 11 apenas como opcional. Para aceitar, remova o prefixo 'não' nesta linha.
